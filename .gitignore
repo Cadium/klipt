@@ -1,0 +1,23 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+*.egg-info/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Xcode / iOS
+*.xcworkspace/xcuserdata/
+*.xcodeproj/xcuserdata/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+Pods/
+
+# Env
+.env
+.env.local

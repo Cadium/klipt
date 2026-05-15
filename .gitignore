@@ -10,8 +10,8 @@ backend/.env
 .AppleDouble
 
 # Xcode / iOS
-*.xcworkspace/xcuserdata/
-*.xcodeproj/xcuserdata/
+xcuserdata/
+*.xcuserstate
 DerivedData/
 *.ipa
 *.dSYM.zip
